@@ -8,7 +8,6 @@ html {
   border-top: solid 1px black;
   box-sizing: border-box;
   margin: 0 auto;
-  background-color: lightgrey;
 }
 
 #header , #footer {
@@ -19,6 +18,42 @@ html {
 @media only screen and (max-width: 767px) {
   html {
     width: 480px;
+  }
+
+  .a {
+    background-color: rgb(255, 124, 124);
+  }
+
+  .b {
+    background-color: rgb(255, 186, 126);
+  }
+
+  .c {
+    background-color: rgb(253, 255, 117);
+  }
+
+  .d {
+    background-color: rgb(190, 255, 115);
+  }
+
+  .e {
+    background-color: rgb(113, 255, 189);
+  }
+
+  .f {
+    background-color: rgb(117, 234, 255);
+  }
+
+  .g {
+    background-color: rgb(122, 153, 255);
+  }
+
+  .h {
+    background-color: rgb(225, 126, 255);
+  }
+
+  .i {
+    background-color: rgb(255, 124, 196);
   }
 
   .all {
@@ -67,6 +102,42 @@ html {
 @media only screen and (min-width: 768px) {
   html {
     width: 960px;
+  }
+
+  .a {
+    background-color: rgb(255, 124, 196);
+  }
+  
+  .b {
+    background-color: rgb(225, 126, 255);
+  }
+  
+  .c {
+    background-color: rgb(122, 153, 255);
+  }
+  
+  .d {
+    background-color: rgb(117, 234, 255);
+  }
+  
+  .e {
+    background-color: rgb(113, 255, 189);
+  }
+  
+  .f {
+    background-color: rgb(190, 255, 115);
+  }
+  
+  .g {
+    background-color: rgb(253, 255, 117);
+  }
+  
+  .h {
+    background-color: rgb(255, 186, 126);
+  }
+  
+  .i {
+    background-color: rgb(255, 124, 124);
   }
 
   .a , .b {
